@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+@import "main.css";     
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+.main-time {  
+
+  text-align: center;
+  font-weight: 600;
+  font-size: 30px;
+
+  margin: 5px 0px;
+  padding-bottom: 10px;
+  
+}
+
+
+:root {
+  --yellow: #fae100;
+
+}
